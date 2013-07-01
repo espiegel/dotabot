@@ -75,7 +75,7 @@ public class DotaBotMain
 			TwitterUtils.sleep(refreshRate);
 			
 			if(!bot.isConnected()) {
-				System.out.println("bot isn't connected... attemping to reconnect");
+				System.out.println("Bot isn't connected... attemping to reconnect");
 				connect(bot);
 			}
 			boolean found = false;

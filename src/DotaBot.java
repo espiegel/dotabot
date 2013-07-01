@@ -35,8 +35,8 @@ public class DotaBot extends PircBot implements IStatusListener
 	private String SAVEPATH = "data.ser";
 	private String CHANNEL = "#dota2.il";
 	//private String CHANNEL2 = "#dota2.israel";
-	private String MYNAME = "JinzakkBatrider"; // Changed from KaelTheInvoker
-	private String hero = "Bat";
+	private String MYNAME = "Rooftrellen"; // Changed from JinzakkBatrider
+	private String hero = "Tree";
 	
 	private final int SPAWN = 0;
 	private final int DEATH = 1;	
